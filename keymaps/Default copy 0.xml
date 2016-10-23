@@ -1,0 +1,8 @@
+<keymap version="1" name="Default copy 0" parent="$default">
+  <action id="ChangesView.Revert" />
+  <action id="CommentByBlockComment" />
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl alt z" />
+  </action>
+  <action id="Vcs.RollbackChangedLines" />
+</keymap>
